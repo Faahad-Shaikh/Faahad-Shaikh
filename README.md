@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faahad-Shaikh
+- 👋 Hi, I’m @Decim
 - 👀 I’m interested in Web dev.
 - 🌱 I’m currently learning Front-end dev.
 - 💞️ I’m looking to collaborate on ...
